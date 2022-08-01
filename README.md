@@ -1,1 +1,2 @@
-# webfairofbilibili
+## 网络异闻录-b站版
+- 这里收集b站上发生的事情
